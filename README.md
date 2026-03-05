@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=vasundharasingh7777-ux&label=Profile%20views&color=0e75b6&style=flat" alt="vasundharasingh7777-ux" />
 </p>
 
-### 📊 Data Analytics Student | BCA @ CGC University
+### 📊 Data Analytics Student | BCA @ I.K Gujral Punjab Technical University
 I specialize in turning messy datasets into clear business stories. My biggest win so far? Cleaning and modeling **53,000+ Swiggy records** using SQL Server!
 
 ---
@@ -26,10 +26,14 @@ I specialize in turning messy datasets into clear business stories. My biggest w
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=vasundharasingh7777-ux&show_icons=true&theme=tokyonight" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundharasingh7777-ux&layout=compact&theme=tokyonight" />
+### 📈 GitHub Activities
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vasundharasingh7777-ux&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundharasingh7777-ux&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vasundharasingh7777-ux&theme=radical&hide_border=true" />
 </p>
 
 ---
