@@ -1,33 +1,39 @@
-# 💫 About Me:
-🔭 I’m currently working on: Advanced SQL projects and end-to-end data pipelines for e-commerce datasets like Swiggy Sales Analysis.<br><br>👯 I’m looking to collaborate on: Open-source Data Analytics projects involving SQL Server, Power BI, and Predictive Modeling.<br><br>🤝 I’m looking for help with: Mastering advanced Machine Learning algorithms for business forecasting.<br><br>🌱 I’m currently learning: AWS Database Essentials and advanced Generative AI for data storytelling.<br><br>💬 Ask me about: SQL Joins, CTEs, Star Schema design, and how I cleaned 53,000+ records for my latest project.<br><br>⚡ Fun fact: I can spend hours perfecting a single Power BI dashboard just to get the perfect  theme 
+# Hi there, I'm Vasundhara Singh! 👋 
 
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=vasundharasingh7777-ux&label=Profile%20views&color=0e75b6&style=flat" alt="vasundharasingh7777-ux" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[linkedin.com/in/vasundhara-singh-9456a2352) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasundharasingh7777@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vasundharasingh7777-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vasundharasingh7777-ux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasundharasingh7777-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 Data Analytics Student | BCA @ CGC University
+I specialize in turning messy datasets into clear business stories. My biggest win so far? Cleaning and modeling **53,000+ Swiggy records** using SQL Server!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vasundharasingh7777-ux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Toolbox
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Databases** | ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Data Viz** | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Cloud/Tools**| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 
-<!--
-**vasundharasingh7777-ux/vasundharasingh7777-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Featured Project: Swiggy Sales Analysis
+*Designed a 5-dimension Star Schema to optimize query performance for 53k+ orders.*
+- **Key Skills:** Data Cleaning (CTEs), Dimensional Modelling, KPI Development.
+- **Outcome:** Segmented customers into spend buckets (Under 100 to 500+ INR).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=vasundharasingh7777-ux&show_icons=true&theme=tokyonight" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundharasingh7777-ux&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasundhara-singh-9456a2352)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasundharasingh7777@gmail.com)
